@@ -1,0 +1,2 @@
+# list_counter
+typescriptでpythonのCollection.Counterみたいなの
